@@ -1,0 +1,29 @@
+.hidden {
+  opacity: 0;
+}
+
+.fadeIn {
+  animation: fadein 200ms ease-out forwards;
+}
+
+.fadeOut {
+  animation: fadeout 100ms ease-out forwards;
+}
+
+@keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeout {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}

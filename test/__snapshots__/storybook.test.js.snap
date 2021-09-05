@@ -1,0 +1,216 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Components/Responisive Product Item Card/Designs Large 1`] = `
+<div
+  className="root from-big "
+>
+  <div
+    className="imageContainer from-big"
+  >
+    <span
+      className="imageLazyWrapper lazy-load-image-background blur"
+      style={
+        Object {
+          "backgroundImage": "",
+          "backgroundSize": "",
+          "display": "inline-block",
+          "height": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <span
+        className="image from-big}"
+        style={
+          Object {
+            "display": "inline-block",
+          }
+        }
+      />
+    </span>
+  </div>
+  <div
+    className="infoContainer from-big"
+  >
+    <div
+      className="infoDetails from-big"
+    >
+      <div
+        className="requiredDetails from-big"
+      >
+        <div
+          className="itemTitle"
+        >
+          The best laptop
+        </div>
+        <div
+          className="itemPrice from-big"
+        >
+          123.56
+        </div>
+      </div>
+      <div
+        className="itemDescription from-big"
+      >
+        The best laptop in the world. I mean, if you don't buy it, you don't deserve to live. What are you waiting for?
+      </div>
+    </div>
+    <div
+      className="buttonContainer from-big"
+    >
+      <button
+        className="button from-big"
+        onClick={[Function]}
+      >
+        See details
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Components/Responisive Product Item Card/Designs Medium 1`] = `
+<div
+  className="root from-small-to-under-big "
+>
+  <div
+    className="imageContainer from-small-to-under-big"
+  >
+    <span
+      className="imageLazyWrapper lazy-load-image-background blur"
+      style={
+        Object {
+          "backgroundImage": "",
+          "backgroundSize": "",
+          "display": "inline-block",
+          "height": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <span
+        className="image from-small-to-under-big}"
+        style={
+          Object {
+            "display": "inline-block",
+          }
+        }
+      />
+    </span>
+  </div>
+  <div
+    className="infoContainer from-small-to-under-big"
+  >
+    <div
+      className="infoDetails from-small-to-under-big"
+    >
+      <div
+        className="requiredDetails from-small-to-under-big"
+      >
+        <div
+          className="itemTitle"
+        >
+          The best laptop
+        </div>
+        <div
+          className="itemPrice from-small-to-under-big"
+        >
+          123.56
+        </div>
+      </div>
+      <div
+        className="itemDescription from-small-to-under-big"
+      >
+        The best laptop in the world. I mean, if you don't buy it, you don't deserve to live. What are you waiting for?
+      </div>
+    </div>
+    <div
+      className="buttonContainer from-small-to-under-big"
+    >
+      <button
+        className="button from-small-to-under-big"
+        onClick={[Function]}
+      >
+        See details
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Components/Responisive Product Item Card/Designs Small 1`] = `
+<div
+  className="root to-small "
+>
+  <div
+    className="imageContainer to-small"
+  >
+    <span
+      className="imageLazyWrapper lazy-load-image-background blur"
+      style={
+        Object {
+          "backgroundImage": "",
+          "backgroundSize": "",
+          "display": "inline-block",
+          "height": undefined,
+          "width": undefined,
+        }
+      }
+    >
+      <span
+        className="image to-small}"
+        style={
+          Object {
+            "display": "inline-block",
+          }
+        }
+      />
+    </span>
+  </div>
+  <div
+    className="infoContainer to-small"
+  >
+    <div
+      className="infoDetails to-small"
+    >
+      <div
+        className="requiredDetails to-small"
+      >
+        <div
+          className="itemTitle"
+        >
+          The best laptop
+        </div>
+        <div
+          className="itemPrice to-small"
+        >
+          123.56
+        </div>
+      </div>
+      <div
+        className="itemDescription to-small"
+      >
+        The best laptop in the world. I mean, if you don't buy it, you don't deserve to live. What are you waiting for?
+      </div>
+    </div>
+    <div
+      className="buttonContainer to-small"
+    >
+      <button
+        className="button to-small"
+        onClick={[Function]}
+      >
+        See details
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Components/Responsive Product Item Card Responsive 1`] = `
+<div
+  className="  hidden"
+>
+  
+</div>
+`;
